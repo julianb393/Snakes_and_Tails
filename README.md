@@ -1,2 +1,2 @@
 # Snakes_and_Tails
-Rendition of the game Snake.
+Replica of the game Snake.
