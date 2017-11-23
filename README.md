@@ -1,2 +1,3 @@
 # Snakes_and_Tails
-Replica of the game Snake.
+## Recreation of the game Snake.
+#### Developed by Julian Barker
