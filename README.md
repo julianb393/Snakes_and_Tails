@@ -1,4 +1,4 @@
-# Snakes_and_Tails
+# Snakes and Tails
 ### Recreation of the game Snake.
 ###### Developed by Julian Barker
 
