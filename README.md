@@ -7,7 +7,7 @@
 ![Start](https://github.com/julianb393/Snakes_and_Tails/blob/master/screenshots/start.png)
 
 ### Runtime Screen
-  - The goal is to eat the piece of food, which will increment the player's score every time.
+  - The goal is to eat the piece of food, which will increment the player's score every time and the length of the tail.
 ![Running](https://github.com/julianb393/Snakes_and_Tails/blob/master/screenshots/running.png)
 
 ### GameOver Screen
